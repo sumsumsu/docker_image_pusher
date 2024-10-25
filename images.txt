@@ -1,1 +1,1 @@
-gotson/komga:latest
+difegue/lanraragi:latest
