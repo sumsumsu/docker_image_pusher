@@ -1,1 +1,1 @@
-xhofe/alist:latest
+ lscr.io/linuxserver/qbittorrent:latest
