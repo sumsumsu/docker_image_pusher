@@ -1,1 +1,1 @@
-lscr.io/linuxserver/emby:latest
+lovechen/embyserver
