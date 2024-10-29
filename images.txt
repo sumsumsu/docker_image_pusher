@@ -1,1 +1,1 @@
-xhofe/alist:latest
+xware/xware:latest
