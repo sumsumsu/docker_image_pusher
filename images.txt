@@ -1,1 +1,1 @@
-xware/xware:latest
+soultaco83/jellyfin_with_request:latest
