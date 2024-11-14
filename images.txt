@@ -1,1 +1,1 @@
-apachewebdav/apachewebdav:latest
+binhex/arch-rclone:latest
