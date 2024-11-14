@@ -1,1 +1,1 @@
-ck98/webdav-nginx:latest
+apachewebdav/apachewebdav:latest
