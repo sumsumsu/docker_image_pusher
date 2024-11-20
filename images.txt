@@ -1,1 +1,1 @@
-binhex/arch-rclone:latest
+cnk3x/xunlei
