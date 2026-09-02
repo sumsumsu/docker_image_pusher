@@ -1,2 +1,3 @@
-tfexplore/88frp-node
-ghcr.io/monlor/xiaoya-embyserver
+ailg/alist:hostmode
+# tfexplore/88frp-node
+# ghcr.io/monlor/xiaoya-embyserver
