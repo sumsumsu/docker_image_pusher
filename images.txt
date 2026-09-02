@@ -1,1 +1,1 @@
-stilleshan/frpc
+88frp-node
