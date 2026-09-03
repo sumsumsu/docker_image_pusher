@@ -1,3 +1,4 @@
-xiaoyaliu/alist:hostmode
+xiaoyaliu/alist
+# xiaoyaliu/alist:hostmode
 # tfexplore/88frp-node
 # ghcr.io/monlor/xiaoya-embyserver
