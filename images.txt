@@ -1,4 +1,4 @@
-lovechen/emby
+xhofe/alist:latest
 # xiaoyaliu/alist
 # xiaoyaliu/alist:hostmode
 # tfexplore/88frp-node
